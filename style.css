@@ -62,13 +62,13 @@ a:hover {
   padding: 5px;
 }
 .image {
-  width: 100px;
+  width: 600px;
   height: 300px;
   position: absolute;
   top: 80px;
-  left: 600px;
+  left: 650px;
 }
 .sample {
-  width: auto;
-  height: auto;
+  max-width: 100%;
+  max-height: 100%;
 }
